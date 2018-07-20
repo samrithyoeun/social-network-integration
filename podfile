@@ -1,0 +1,14 @@
+# platform :ios, '9.0'
+
+target 'twitter login' do
+
+  use_frameworks!
+	pod 'TwitterKit', '3.3.0' 
+  	pod 'GoogleSignIn', '4.1.2'
+	pod 'FBSDKLoginKit', '4.34.0'
+	pod 'SwiftyJSON', '4.1.0'
+    pod 'Alamofire', '4.7.3'
+    pod 'OAuthSwift', '1.2.2'
+    pod 'LinkedinSwift', '1.7.7'
+    pod 'cloudrail-si-ios-sdk'
+end

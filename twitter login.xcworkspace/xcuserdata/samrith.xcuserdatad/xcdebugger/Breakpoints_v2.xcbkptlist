@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "twitter login/Controller/UserInfomationController.swift"
+            timestampString = "553732387.970395"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "UserInfomationController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "twitter_login.UserInfomationController.informationLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "twitter login"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samrith/Downloads/twitterlogin-master/twitter%20login/Controller/UserInfomationController.swift"
+                  timestampString = "553729422.781521"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "twitter_login.UserInfomationController.informationLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "twitter login"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samrith/Downloads/twitterlogin-master/twitter%20login/Controller/UserInfomationController.swift"
+                  timestampString = "553729422.785949"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "twitter_login.UserInfomationController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; twitter_login.UserInfomationController"
+                  moduleName = "twitter login"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samrith/Downloads/twitterlogin-master/twitter%20login/Controller/UserInfomationController.swift"
+                  timestampString = "553729422.787649"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "twitter_login.UserInfomationController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;twitter_login.UserInfomationController&gt;"
+                  moduleName = "twitter login"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samrith/Downloads/twitterlogin-master/twitter%20login/Controller/UserInfomationController.swift"
+                  timestampString = "553729422.789402"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "63">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
